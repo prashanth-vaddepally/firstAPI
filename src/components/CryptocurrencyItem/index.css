@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.small-row {
+  display: flex;
+  flex-direction: row;
+}
+.usds {
+  padding-right: 20px;
+}

@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.heading {
+  color: #00e7ff;
+  font-size: 25px;
+  padding-top: 20px;
+}
+.images {
+  height: 60vh;
+  width: 80vw;
+}
+.lower-box-heading {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  border: solid 2px #00e7ff;
+}
+.first-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.small-row {
+  display: flex;
+  flex-direction: row;
+}
+.coin-type {
+  margin-left: 40px;
+}
+.usd {
+  margin-right: 50px;
+  margin-left: -30px;
+}
+.euro {
+  margin-left: -10px;
+  margin-right: 30px;
+}
